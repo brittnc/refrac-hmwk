@@ -2,7 +2,7 @@
 # Horiseon Solution Servies
 
 
-# Link to launch website
+# Link to Launch Website
 
 [click here](http://127.0.0.1:5500/refrac-hmwk/Develop/code-refractor-homework.html)
 
@@ -22,7 +22,7 @@
         
         
 
-# Screenshot of live webpage
+# Screenshot of Live Webpage
         ![Full Webpage on live view](https://github.com/brittnc/refrac-hmwk/blob/main/Assets/127.0.0.1_5500_refrac-hmwk_Develop_code-refractor-homework.html.png)
               
         
