@@ -1,13 +1,16 @@
+/*header*/
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* background*/
 body {
     background-color: #d9dcd6;
 }
 
+/*header box style*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,6 +23,7 @@ body {
     font-size: 48px;
 }
 
+/*logo in box style*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -50,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/*section style*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +64,26 @@ p {
     background-position: center;
 }
 
+/* left images*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*right images*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*section style*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*side bar style*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +95,7 @@ p {
     background-color: #2589bd;
 }
 
+/*box style*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -100,6 +110,7 @@ p {
     text-align: center;
 }
 
+/*images in section style*/
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img { 
@@ -108,7 +119,7 @@ p {
     max-width: 150px;
 }
 
-
+/*box style*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -120,7 +131,7 @@ p {
     color: #ffffff;
 }
 
-
+/*section images style*/
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -134,6 +145,7 @@ p {
     font-size: 36px;
 }
 
+/*footer style*/
 .footer {
     padding: 30px;
     clear: both;
