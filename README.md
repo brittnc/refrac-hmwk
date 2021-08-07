@@ -2,10 +2,10 @@
 Refractor Homework - Week 1
 
 
-Link to deployed application
+# Link to deployed application
         http://127.0.0.1:5500/refrac-hmwk/Develop/code-refractor-homework.html
 
-Homework objectives 
+# Homework objectives 
 
         GIVEN a webpage meets accessibility standards
         WHEN I view the source code
@@ -21,7 +21,7 @@ Homework objectives
         
         
 
-Screenshot of live webpage added to assets folder
-        ![Full Webpage on live view](https://github.com/brittnc/refrac-hmwk/blob/main/Assets/127.0.0.1_5500_refrac-hmwk_Develop_code-refractor-homework.html.png)
+# Screenshot of live webpage added to assets folder
+        ![Full Webpage on live view](Assets/127.0.0.1_5500_refrac-hmwk_Develop_code-refractor-homework.html.png)
               
         
