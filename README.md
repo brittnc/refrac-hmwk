@@ -1,12 +1,12 @@
 
-#Horiseon Solution Servies
+# Horiseon Solution Servies
 
 
-#Link to launch website
+# Link to launch website
 
-[click here](https://brittnc.github.io/refrac-hmwk/)
+[click here](http://127.0.0.1:5500/refrac-hmwk/Develop/code-refractor-homework.html)
 
-#Company Ojectives 
+# Company Ojectives 
 
         GIVEN a webpage meets accessibility standards
         WHEN I view the source code
@@ -22,7 +22,7 @@
         
         
 
-#Screenshot of live webpage
+# Screenshot of live webpage
         ![Full Webpage on live view](https://github.com/brittnc/refrac-hmwk/blob/main/Assets/127.0.0.1_5500_refrac-hmwk_Develop_code-refractor-homework.html.png)
               
         
