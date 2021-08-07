@@ -23,6 +23,6 @@
         
 
 # Screenshot of Live Webpage
-        ![Full Webpage on live view](Assets/127.0.0.1_5500_refrac-hmwk_Develop_code-refractor-homework.html.png)
+        ![Full Webpage on live view](assets/127.0.0.1_5500_refrac-hmwk_Develop_code-refractor-homework.html.png)
               
         
