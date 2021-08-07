@@ -1,11 +1,12 @@
-# refrac-hmwk
-Refractor Homework - Week 1
+
+# Horiseon Solution Servies
 
 
-# Link to deployed application
-        http://127.0.0.1:5500/refrac-hmwk/Develop/code-refractor-homework.html
+# Link to Launch Website
 
-# Homework objectives 
+[click here](http://127.0.0.1:5500/refrac-hmwk/Develop/code-refractor-homework.html)
+
+# Company Ojectives 
 
         GIVEN a webpage meets accessibility standards
         WHEN I view the source code
@@ -21,7 +22,7 @@ Refractor Homework - Week 1
         
         
 
-# Screenshot of live webpage added to assets folder
-        ![Full Webpage on live view](Assets/127.0.0.1_5500_refrac-hmwk_Develop_code-refractor-homework.html.png)
+# Screenshot of Live Webpage
+        ![Full Webpage on live view](https://github.com/brittnc/refrac-hmwk/blob/main/Assets/127.0.0.1_5500_refrac-hmwk_Develop_code-refractor-homework.html.png)
               
         
