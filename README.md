@@ -23,4 +23,4 @@
         
 
 # Screenshot of Live Webpage
-![Full Webpage on live view](/Users/brittneylynncrosby/Desktop/Bootcamp/refractor-homework/assets/images/127.0.0.1_5500_refrac-hmwk_Develop_code-refractor-homework.html.png)
+![Full Webpage on live view](assets/images/127.0.0.1_5500_refrac-hmwk_Develop_code-refractor-homework.html.png)
